@@ -25,3 +25,8 @@ https://zh.airbnb.com/api/v2/pdp_listing_details/443684?_format=for_rooms_show&r
 https://zh.airbnb.com/api/v2/reviews?key=d306zoyjsyarp7ifhu67rjxn52tv0t20&currency=CNY&locale=zh&listing_id=443684&role=guest&_format=for_p3&_limit=7&_offset=7&_order=language_country
 
 每页只显示7条评论，通过offset来控制：0、7、14、21、28、35……
+
+
+# 备注
+
+> 请不要吝啬你的小星星
